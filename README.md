@@ -1,5 +1,8 @@
 Obelion Cloud Automation Assessment - Infrastructure Repository
 
+
+<img width="959" height="424" alt="CI-CD" src="https://github.com/user-attachments/assets/93e37581-85fd-496b-ac09-5e69f9245b56" />
+
 This repository contains the Infrastructure as Code (IaC) required for Task Group A (AWS Infrastructure Creation) and Task Group B-3 (CPU Alerting). It also includes the detailed migration plan for Task Group C (Azure Migration).
 
 1. Task Group A: AWS Infrastructure
