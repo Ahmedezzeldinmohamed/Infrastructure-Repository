@@ -65,3 +65,10 @@ Note: The user must confirm the subscription email sent by AWS SNS after running
 3. Task Group C: Azure Migration Plan (Optional)
 
 The detailed, four-stage plan for migrating the entire architecture (DB, Assets, Compute) from AWS to Azure with minimal downtime is available in the file: azure_migration_plan.md.
+
+<img width="960" height="540" alt="Azure1" src="https://github.com/user-attachments/assets/e86ce612-d419-4cc3-9214-cf25d8767076" />
+
+<img width="1920" height="1080" alt="azure2" src="https://github.com/user-attachments/assets/39c1e3a4-75cc-4bf4-9a62-676ee6d8272b" />
+
+
+
