@@ -55,6 +55,13 @@ Action: Send notification to a specified email address via AWS SNS.
 
 Note: The user must confirm the subscription email sent by AWS SNS after running terraform apply.
 
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d43b3083-c2c8-4016-ac24-1d32a5d89a0e" />
+
+
+<img width="1920" height="852" alt="image" src="https://github.com/user-attachments/assets/0d3bb316-63f0-4bb1-8169-4609079f4925" />
+
+
 3. Task Group C: Azure Migration Plan (Optional)
 
 The detailed, four-stage plan for migrating the entire architecture (DB, Assets, Compute) from AWS to Azure with minimal downtime is available in the file: azure_migration_plan.md.
